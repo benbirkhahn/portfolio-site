@@ -7,7 +7,7 @@ const projects = [
         title: 'AI DJ Automixer',
         description: 'An intelligent audio engineering platform that analyzes, beatsyncs, and automixes tracks using advanced DJ transitions, powered by a custom Python backend.',
         tags: ['Python', 'Audio Processing', 'AI', 'Full Stack'],
-        link: '#',
+        link: 'https://github.com/benbirkhahn/ai-dj-automixer',
         github: 'https://github.com/benbirkhahn/ai-dj-automixer',
         image: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=800&auto=format&fit=crop', // Turntable / DJ placeholder
         video: 'https://www.youtube.com/embed/dQw4w9WgXcQ' // Placeholder demo video
@@ -17,19 +17,9 @@ const projects = [
         title: 'ClarityCheck',
         description: 'A full-stack SaaS platform featuring secure payment integrations and zero-width character detection, built for text authenticity verification.',
         tags: ['React', 'Node.js', 'Stripe', 'SaaS'],
-        link: '#',
+        link: 'https://github.com/benbirkhahn/claritycheck',
         github: 'https://github.com/benbirkhahn/claritycheck',
         image: 'https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=800&auto=format&fit=crop', // Code / SaaS placeholder
-        video: null
-    },
-    {
-        id: 3,
-        title: 'Plasma Crab',
-        description: 'An interactive frontend prototype showcasing a dynamic particle system, advanced glassmorphism, and neon aesthetic micro-animations.',
-        tags: ['Frontend', 'UI/UX', 'Animations', 'Canvas'],
-        link: '#',
-        github: 'https://github.com/benbirkhahn/plasma-crab',
-        image: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop', // Abstract neon placeholder
         video: null
     },
     {
@@ -37,7 +27,7 @@ const projects = [
         title: 'YouTube MP3 Downloader',
         description: 'A responsive automated batch downloader pipeline to extract, convert, and organize high-quality audio from video sources.',
         tags: ['Automation', 'Scripting', 'Node.js/Python'],
-        link: '#',
+        link: 'https://github.com/benbirkhahn/youtube-mp3-downloader',
         github: 'https://github.com/benbirkhahn/youtube-mp3-downloader',
         image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=800&auto=format&fit=crop', // YouTube related placeholder
         video: null
